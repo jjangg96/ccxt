@@ -143,6 +143,7 @@ from ccxt.gateio import gateio                              # noqa: F401
 from ccxt.gemini import gemini                              # noqa: F401
 from ccxt.hitbtc import hitbtc                              # noqa: F401
 from ccxt.hollaex import hollaex                            # noqa: F401
+from ccxt.huobikorea import huobikorea                      # noqa: F401
 from ccxt.huobipro import huobipro                          # noqa: F401
 from ccxt.huobiru import huobiru                            # noqa: F401
 from ccxt.ice3x import ice3x                                # noqa: F401
@@ -264,6 +265,7 @@ exchanges = [
     'gemini',
     'hitbtc',
     'hollaex',
+    'huobikorea',
     'huobipro',
     'huobiru',
     'ice3x',

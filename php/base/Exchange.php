@@ -132,6 +132,7 @@ class Exchange {
         'gemini',
         'hitbtc',
         'hollaex',
+        'huobikorea',
         'huobipro',
         'huobiru',
         'ice3x',

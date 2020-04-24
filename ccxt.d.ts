@@ -503,6 +503,7 @@ declare module 'ccxt' {
     export class gemini extends Exchange {}
     export class hitbtc extends Exchange {}
     export class hollaex extends Exchange {}
+    export class huobikorea extends Exchange {}
     export class huobipro extends Exchange {}
     export class huobiru extends huobipro {}
     export class ice3x extends Exchange {}
