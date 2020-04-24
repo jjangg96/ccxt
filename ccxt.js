@@ -119,6 +119,7 @@ const exchanges = {
     'hollaex':                 require ('./js/hollaex.js'),
     'huobipro':                require ('./js/huobipro.js'),
     'huobiru':                 require ('./js/huobiru.js'),
+    'huobikorea':              require ('./js/huobikorea.js'),
     'ice3x':                   require ('./js/ice3x.js'),
     'idex':                    require ('./js/idex.js'),
     'independentreserve':      require ('./js/independentreserve.js'),
